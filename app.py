@@ -1,2 +1,2 @@
-print("Richard Clayton was here")
+print("Richard Clayton was here and left this message")
 
